@@ -21,7 +21,7 @@ export default function Header() {
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
               <Link href="/">
                 <h2 className="text-2xl text-yellow-300 font-bold">
-                  `Raj's Blog`
+                Blogs By Raj
                 </h2>
               </Link>
               <div className="md:hidden">
