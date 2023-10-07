@@ -13,7 +13,7 @@ export default function Header() {
           name="Raj Kasaudhan"
           content="Digital Content Creator, Tech Enthusiast, Web developer, Development, Software enginner"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <nav className="w-full  shadow my-7">
         <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
@@ -21,7 +21,7 @@ export default function Header() {
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
               <Link href="/">
                 <h2 className="text-2xl text-yellow-300 font-bold">
-                  Raj's Blog
+                  `Raj's Blog`
                 </h2>
               </Link>
               <div className="md:hidden">
